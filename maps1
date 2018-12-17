@@ -1,0 +1,15 @@
+# First column: City name.
+# Second column: Latitude location.
+# Third column: Longitute location.
+# Format: <city name>,<latitute>,<longitute>
+# Seperate between cities with enter.
+
+MiTC Melaka,2.2714843,102.28636
+Zoo Melaka,2.2778543,102.2991534
+Taman Botanikal Melaka,2.280702,102.2984493
+Menara Taming Sari Melaka,2.1909778,102.2450914
+Dataran Pahlawan Melaka,2.1900741,102.2502719
+Asam Pedas Melaka,2.1959882,102.2411785
+7e Taman Tasik Melaka,2.2718076,102.2820603
+Hotel Kobemas Melaka,2.2683585,102.2840123
+Jabatan Imigrisen Melaka,2.26617,102.2949613
